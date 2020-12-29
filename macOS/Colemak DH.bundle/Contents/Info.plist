@@ -44,6 +44,15 @@
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
+	<key>KLInfo_Colemak DH ISO UK Wide</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>io.github.colemakmods.keyboardlayout.colemakdh.colemakdhisoukwide</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
 	<key>KLInfo_Colemak DH Matrix</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
